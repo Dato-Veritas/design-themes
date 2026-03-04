@@ -1,49 +1,44 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# * theme_zap
+# 	* theme_zap
 #
-# "Tiffany Chang (tic)" <tic@odoo.com>, 2025.
-# Hanna Kharraziha <hakha@odoo.com>, 2026.
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server saas~18.2\n"
+"Project-Id-Version: Odoo Server 19.0+e\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-10-09 10:57+0000\n"
-"PO-Revision-Date: 2026-02-21 19:41+0000\n"
-"Last-Translator: Hanna Kharraziha <hakha@odoo.com>\n"
-"Language-Team: Swedish <https://translate.odoo.com/projects/odoo-19/"
-"theme_zap/sv/>\n"
-"Language: sv\n"
+"PO-Revision-Date: 2025-10-09 10:57+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.14.3\n"
+"Plural-Forms: \n"
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_key_benefits
 msgid "24/7 Technical Support"
-msgstr "Teknisk support 24/7"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_big_number
 msgid "90%"
-msgstr "90%"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_numbers
 msgid "98%"
-msgstr "98%"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_banner
 msgid "<b>Software innovation</b><br/> at its best."
-msgstr "<b>Mjukvaruinnovation</b><br/> när den är som bäst."
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_empowerment
 msgid "<br/>Transforming ideas into impactful digital experiences.<br/><br/>"
-msgstr "<br/> Omvandla idéer till effektiva digitala upplevelser.<br/><br/>"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_masonry_block_default_template
@@ -51,23 +46,21 @@ msgid ""
 "<em class=\"lead\">Maintain a position of constant change<br/> and "
 "evolution, while always aiming<br/> for your success.</em>"
 msgstr ""
-"<em class=\"lead\">Håll en position av ständig förändring<br/> och "
-"utveckling, samtidigt som du alltid siktar<br/> på din framgång.</em>"
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_numbers
 msgid "<font class=\"text-o-color-1\">Happy customers</font>"
-msgstr "<font class=\"text-o-color-1\">Nöjda kunder</font>"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_numbers
 msgid "<font class=\"text-o-color-1\">Languages</font>"
-msgstr "<font class=\"text-o-color-1\">Språk</font>"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_numbers
 msgid "<font class=\"text-o-color-1\">Solutions</font>"
-msgstr "<font class=\"text-o-color-1\">Lösningar</font>"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_cta_card
@@ -75,8 +68,6 @@ msgid ""
 "<i class=\"fa fa-check text-o-color-1\" role=\"presentation\" "
 "contenteditable=\"false\"/> Attractive Salary"
 msgstr ""
-"<i class=\"fa fa-check text-o-color-1\" role=\"presentation\" "
-"contenteditable=\"false\"/> Attraktiv lön"
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_cta_card
@@ -84,8 +75,6 @@ msgid ""
 "<i class=\"fa fa-check text-o-color-1\" role=\"presentation\" "
 "contenteditable=\"false\"/> Continuous Learning"
 msgstr ""
-"<i class=\"fa fa-check text-o-color-1\" role=\"presentation\" "
-"contenteditable=\"false\"/> Kontinuerligt lärande"
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_cta_card
@@ -93,26 +82,20 @@ msgid ""
 "<i class=\"fa fa-check text-o-color-1\" role=\"presentation\" "
 "contenteditable=\"false\"/> Healthy Environement"
 msgstr ""
-"<i class=\"fa fa-check text-o-color-1\" role=\"presentation\" "
-"contenteditable=\"false\"/> Hälsosam miljö"
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_discovery
 msgid ""
-"<i class=\"fa fa-circle text-success\" role=\"presentation\"/>  We're hiring "
-"now!"
+"<i class=\"fa fa-circle text-success\" role=\"presentation\"/>  We're hiring"
+" now!"
 msgstr ""
-"<i class=\"fa fa-circle text-success\" role=\"presentation\"/>  Vi anställer "
-"nu!"
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_empowerment
 msgid ""
-"<i class=\"fa fa-fw fa-info-circle o_not-animable\" role=\"img\"/"
-">  Innovative solutions"
+"<i class=\"fa fa-fw fa-info-circle o_not-animable\" "
+"role=\"img\"/>  Innovative solutions"
 msgstr ""
-"<i class=\"fa fa-fw fa-info-circle o_not-animable\" role=\"img\"/"
-">  Innovativa lösningar"
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_key_benefits
@@ -120,34 +103,31 @@ msgid ""
 "Access the latest advancements and tools that enhance your digital "
 "experience and keep you ahead in the ever-evolving tech landscape."
 msgstr ""
-"Få tillgång till de senaste framstegen och verktygen som förbättrar din "
-"digitala upplevelse och håller dig i framkant i det ständigt föränderliga "
-"tekniklandskapet."
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_showcase
 msgid "Agile Approach"
-msgstr "Agilt förhållningssätt"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_features
 msgid "All our data centers <br/>are emission-free."
-msgstr "Alla våra datacenter <br/>är utsläppsfria."
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_features
 msgid "All types of files <br/>are allowed."
-msgstr "Alla typer av filer <br/>är tillåtna."
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_three_columns
 msgid "Benefits"
-msgstr "Fördelar"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_showcase
 msgid "Book an appointment"
-msgstr "Boka tid för besök"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_quadrant
@@ -156,9 +136,6 @@ msgid ""
 "services. From copywriting to media campaigns, we tailor strategies that "
 "drive results.<br/><br/> Elevate your brand with us."
 msgstr ""
-"Öka ditt varumärkes närvaro på nätet med våra experttjänster inom digital "
-"marknadsföring. Från copywriting till mediekampanjer skräddarsyr vi "
-"strategier som ger resultat.<br/><br/> Lyft ditt varumärke med oss."
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_striped_center_top
@@ -166,8 +143,6 @@ msgid ""
 "Boost your brand’s presence with our expert digital marketing services, "
 "tailored to drive engagement and results."
 msgstr ""
-"Öka ditt varumärkes närvaro med våra digitala marknadsföringstjänster som är "
-"skräddarsydda för att skapa engagemang och resultat."
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_card_offset
@@ -177,19 +152,16 @@ msgid ""
 "marketing services. From copywriting to media strategies, we tailor "
 "solutions to meet your unique needs."
 msgstr ""
-"Öka ditt varumärkes synlighet och engagemang med våra experttjänster inom "
-"digital marknadsföring. Vi skräddarsyr lösningar för att möta dina unika "
-"behov, från copywriting till mediestrategier."
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_empowerment
 msgid "Building the future<br/>with NovaDev Solutions"
-msgstr "Bygg framtiden<br/>med NovaDev Solutions"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_pricelist_boxed
 msgid "Business Strategy Consulting"
-msgstr "Rådgivning om affärsstrategi"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_comparisons
@@ -197,23 +169,21 @@ msgid ""
 "Check out our flexible pricing plans with no hidden fees. Contact us for a "
 "custom quote."
 msgstr ""
-"Kolla in våra flexibla prisplaner utan dolda avgifter. Kontakta oss för en "
-"anpassad offert."
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_color_blocks_2
 msgid "Cloud <b>Solution</b>"
-msgstr "Moln <b>Lösning</b>"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_pricelist_boxed
 msgid "Cloud Computing Solutions"
-msgstr "Lösningar för molnbaserad databehandling"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_showcase
 msgid "Coding Excellence"
-msgstr "Utmärkt kodning"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_pricelist_boxed
@@ -221,33 +191,31 @@ msgid ""
 "Comprehensive financial planning, including risk assessment, investment "
 "strategy, and tax optimization for your business."
 msgstr ""
-"Omfattande finansiell planering, inklusive riskbedömning, "
-"investeringsstrategi och skatteoptimering för ditt företag."
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_discovery
 msgid "Contact Us"
-msgstr "Kontakta oss"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_cta_box
 msgid "Contact us"
-msgstr "Kontakta oss"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_cta_box
 msgid "Contact us and get started.<br/><br/>"
-msgstr "Kontakta oss och kom igång.<br/><br/>"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_cta_box
 msgid "Curious to know more?"
-msgstr "Är du nyfiken på att veta mer?"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_key_benefits
 msgid "Customized Digital Solutions"
-msgstr "Skräddarsydda digitala lösningar"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_pricelist_boxed
@@ -255,60 +223,58 @@ msgid ""
 "Customized HR solutions, including talent acquisition, employee training, "
 "and performance management to boost productivity."
 msgstr ""
-"Anpassade HR-lösningar, inklusive talangutveckling, utbildning av anställda "
-"och prestationshantering för att öka produktiviteten."
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_key_images
 msgid "Customized solutions for your business needs"
-msgstr "Skräddarsydda lösningar för dina affärsbehov"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_key_benefits
 msgid "Cutting-Edge Technology"
-msgstr "Spjutspetsteknologi"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_quadrant
 msgid "Digital Marketing"
-msgstr "Digital marknadsföring"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_pricelist_boxed
 msgid "Digital Marketing Services"
-msgstr "Digitala marknadsföringstjänster"
+msgstr ""
 
 #. module: theme_zap
 #: model:ir.model.fields,field_description:theme_zap.field_theme_utils__display_name
 msgid "Display Name"
-msgstr "Visningsnamn"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_key_images
 msgid "Driving Success Through Innovation"
-msgstr "Framgång genom innovation"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_features
 msgid "Eco-Friendly"
-msgstr "Miljövänlig"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_card_offset
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_freegrid
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_striped_center_top
 msgid "Elevate Your Brand with Digital Marketing"
-msgstr "Lyft ditt varumärke med digital marknadsföring"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_unveil
 msgid "Empower your digital journey"
-msgstr "Stärk din digitala resa"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_key_images
 msgid "Empowering Businesses to Reach New Heights"
-msgstr "Ger företag möjlighet att nå nya höjder"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_pricelist_boxed
@@ -316,23 +282,18 @@ msgid ""
 "Enhance your business operations with our comprehensive suite of "
 "professional services, tailored to meet your corporate needs."
 msgstr ""
-"Förbättra din affärsverksamhet med vårt omfattande utbud av professionella "
-"tjänster, skräddarsydda för att uppfylla dina företagsbehov."
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_discovery
 msgid "Experience the real<br/>innovation"
-msgstr "Upplev den verkliga<br/>innovationen"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_discovery
 msgid ""
-"Experience top-tier software solutions designed to streamline operations,<br/"
-"> boost efficiency, and drive innovation for your business."
+"Experience top-tier software solutions designed to streamline "
+"operations,<br/> boost efficiency, and drive innovation for your business."
 msgstr ""
-"Upplev förstklassiga mjukvarulösningar som är utformade för att "
-"effektivisera verksamheten, <br/> öka effektiviteten och driva innovation "
-"för ditt företag."
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_pricelist_boxed
@@ -340,28 +301,26 @@ msgid ""
 "Expert advice on business planning, market analysis, and competitive "
 "strategy to help your company achieve its goals."
 msgstr ""
-"Expertråd om affärsplanering, marknadsanalys och konkurrensstrategi för att "
-"hjälpa ditt företag att nå sina mål."
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_key_images
 msgid "Expert advice to navigate complex challenges"
-msgstr "Expertråd för att navigera i komplexa utmaningar"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_three_columns
 msgid "Features"
-msgstr "Funktioner"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_pricelist_boxed
 msgid "Financial Advisory Services"
-msgstr "Finansiell rådgivning"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_discovery
 msgid "Get a Quote"
-msgstr "Få en offert"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_banner
@@ -369,23 +328,21 @@ msgid ""
 "Harness the power of disruptive technologies to increase<br/> your day-to-"
 "day business operations."
 msgstr ""
-"Utnyttja kraften i omvälvande teknik för att öka<br/> din dagliga "
-"affärsverksamhet."
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_pricelist_boxed
 msgid "Human Resources Management"
-msgstr "Human Resources Management"
+msgstr ""
 
 #. module: theme_zap
 #: model:ir.model.fields,field_description:theme_zap.field_theme_utils__id
 msgid "ID"
-msgstr "ID"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_pricelist_boxed
 msgid "IT Support Services"
-msgstr "IT-supporttjänster"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_color_blocks_2
@@ -393,53 +350,51 @@ msgid ""
 "Keep your files in one place. <br/>Manage documents online with an easy to "
 "use interface. <br/>Rely on an highly secure cloud storage."
 msgstr ""
-"Håll dina filer på ett ställe. <br/> Hantera dokument online med ett "
-"användarvänligt gränssnitt. <br/>Lita på en mycket säker molnlagring."
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_carousel_intro
 msgid "Leading the future with innovation"
-msgstr "Leda framtiden med innovation"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_card_offset
 msgid "Let’s grow your brand together."
-msgstr "Låt oss utveckla ditt varumärke tillsammans."
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_striped_center_top
 msgid "Marketing crafted for impact"
-msgstr "Marknadsföring utformad för att ge effekt"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_showcase
 msgid "Meet Our Specialists"
-msgstr "Träffa våra specialister"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_references_grid
 msgid "Our <strong>References</strong>"
-msgstr "Våra <strong>referenser</strong>"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_pricelist_boxed
 msgid "Our Corporate Services"
-msgstr "Våra företagstjänster"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_references
 msgid "Our References"
-msgstr "Våra referenser"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_banner
 msgid "Our Solutions"
-msgstr "Våra lösningar"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_empowerment
 msgid "Our services"
-msgstr "Våra tjänster"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_showcase
@@ -447,27 +402,23 @@ msgid ""
 "Our specialists bring a wealth of knowledge and experience to deliver top-"
 "quality solutions every time."
 msgstr ""
-"Våra specialister har stor kunskap och erfarenhet för att kunna leverera "
-"lösningar av högsta kvalitet varje gång."
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_key_benefits
 msgid ""
-"Our team offers round-the-clock support to ensure your digital platforms run "
-"smoothly and any issues are swiftly addressed."
+"Our team offers round-the-clock support to ensure your digital platforms run"
+" smoothly and any issues are swiftly addressed."
 msgstr ""
-"Vårt team erbjuder support dygnet runt för att säkerställa att dina digitala "
-"plattformar fungerar smidigt och att eventuella problem åtgärdas snabbt."
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_key_images
 msgid "Partner with us to unlock your potential"
-msgstr "Samarbeta med oss för att frigöra din potential"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_key_images
 msgid "Proven strategies for sustainable growth"
-msgstr "Beprövade strategier för hållbar tillväxt"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_pricelist_boxed
@@ -475,8 +426,6 @@ msgid ""
 "Reliable IT support, network management, and cybersecurity solutions to "
 "safeguard your business operations and data integrity."
 msgstr ""
-"Tillförlitlig IT-support, nätverkshantering och cybersäkerhetslösningar för "
-"att skydda din affärsverksamhet och dataintegritet."
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_pricelist_boxed
@@ -484,112 +433,106 @@ msgid ""
 "Scalable cloud services to enhance your business’s flexibility and data "
 "accessibility, supporting remote work and collaboration."
 msgstr ""
-"Skalbara molntjänster för att öka företagets flexibilitet och "
-"datatillgänglighet, med stöd för distansarbete och samarbete."
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_features
 msgid "Security"
-msgstr "Säkerhet"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_showcase
 msgid "Security First"
-msgstr "Säkerhet först"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_discovery
 msgid "See more  <i class=\"fa fa-long-arrow-right\" role=\"presentation\"/>"
-msgstr "Se mer  <i class=\"fa fa-long-arrow-right\" role=\"presentation\"/>"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_empowerment
 msgid "See our projects   <i class=\"fa fa-long-arrow-right\" role=\"img\"/>"
-msgstr "Se våra projekt   <i class=\"fa fa-long-arrow-right\" role=\"img\"/>"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_three_columns
 msgid "Services"
-msgstr "Tjänster"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_quadrant
 msgid "Start Campaign"
-msgstr "Starta kampanj"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_freegrid
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_striped_center_top
 msgid "Start Your Campaign"
-msgstr "Starta din kampanj"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_empowerment
 msgid "Start a project"
-msgstr "Starta ett projekt"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_pricelist_boxed
 msgid "Starting at $1,500"
-msgstr "Från 1 500 USD"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_pricelist_boxed
 msgid "Starting at $1,800"
-msgstr "Från 1 800 USD"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_pricelist_boxed
 msgid "Starting at $2,000"
-msgstr "Från 2 000 USD"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_pricelist_boxed
 msgid "Starting at $2,500"
-msgstr "Från 2 500 USD"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_pricelist_boxed
 msgid "Starting at $3,000"
-msgstr "Från 3 000 dollar"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_pricelist_boxed
 msgid ""
-"Strategic online marketing, SEO optimization, and social media management to "
-"boost your brand visibility and customer engagement."
+"Strategic online marketing, SEO optimization, and social media management to"
+" boost your brand visibility and customer engagement."
 msgstr ""
-"Strategisk onlinemarknadsföring, SEO-optimering och hantering av sociala "
-"medier för att öka ditt varumärkes synlighet och ditt kundengagemang."
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_masonry_block_default_template
 msgid "Super <b>Easy</b>"
-msgstr "Super <b>enkelt</b>"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_masonry_block_default_template
 msgid "Super <b>Fast</b>"
-msgstr "Super <b>Snabb</b>"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_features
 msgid "Support"
-msgstr "Stöd"
+msgstr ""
 
 #. module: theme_zap
 #: model:ir.model,name:theme_zap.model_theme_utils
 msgid "Theme Utils"
-msgstr "Verktyg för teman"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_unveil
 msgid ""
-"Unlock limitless possibilities with our innovative cloud solutions and agile "
-"technology."
+"Unlock limitless possibilities with our innovative cloud solutions and agile"
+" technology."
 msgstr ""
-"Frigör gränslösa möjligheter med våra innovativa molnlösningar och vår agila "
-"teknik."
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_showcase
@@ -597,13 +540,11 @@ msgid ""
 "Using agile methods, we deliver flexible, iterative solutions that adapt "
 "quickly to changing business needs and feedback."
 msgstr ""
-"Med hjälp av agila metoder levererar vi flexibla, iterativa lösningar som "
-"snabbt anpassar sig till förändrade affärsbehov och feedback."
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_striped
 msgid "We deliver powerful solutions"
-msgstr "Vi levererar kraftfulla lösningar"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_showcase
@@ -611,8 +552,6 @@ msgid ""
 "We focus on writing clean, efficient code, ensuring scalable and high-"
 "performance software that meets industry standards."
 msgstr ""
-"Vi fokuserar på att skriva ren och effektiv kod, vilket säkerställer skalbar "
-"och högpresterande programvara som uppfyller branschstandarder."
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_showcase
@@ -620,13 +559,11 @@ msgid ""
 "We integrate strong security measures at every stage, protecting your "
 "software and data from vulnerabilities and threats."
 msgstr ""
-"Vi integrerar starka säkerhetsåtgärder i varje steg för att skydda din "
-"programvara och dina data från sårbarheter och hot."
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_features
 msgid "We keep you safe <br/>in the cloud."
-msgstr "Vi håller dig säker <br/> i molnet."
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_striped
@@ -634,8 +571,6 @@ msgid ""
 "We provide innovative, tailored strategies that drive results and enhance "
 "business performance effectively."
 msgstr ""
-"Vi tillhandahåller innovativa, skräddarsydda strategier som ger resultat och "
-"förbättrar affärsprestanda på ett effektivt sätt."
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_key_benefits
@@ -643,9 +578,6 @@ msgid ""
 "We provide tailored digital strategies and solutions that align with your "
 "specific goals, driving innovation and efficiency in your online presence."
 msgstr ""
-"Vi tillhandahåller skräddarsydda digitala strategier och lösningar som är "
-"anpassade till dina specifika mål och som driver innovation och effektivitet "
-"i din närvaro på nätet."
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_references
@@ -653,19 +585,18 @@ msgid ""
 "We're excited to have the opportunity to collaborate with these outstanding "
 "companies!"
 msgstr ""
-"Vi är glada över att få möjlighet att samarbeta med dessa enastående företag!"
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_cta_card
 msgid "We’re seeking exceptional talent to join our team"
-msgstr "Vi söker exceptionella talanger som vill bli en del av vårt team"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_pricelist_boxed
 msgid "✽  Consulting Services"
-msgstr "✽  Konsulttjänster"
+msgstr ""
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_pricelist_boxed
 msgid "✽  Technology Solutions"
-msgstr "✽  Tekniska lösningar"
+msgstr ""
